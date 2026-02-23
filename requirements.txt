@@ -5,3 +5,4 @@ plotly.express
 scipy
 matplotlib.patches
 scipy.stats
+streamlit
