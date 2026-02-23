@@ -1,0 +1,7 @@
+pandas
+matplotlib.pyplot
+seaborn
+plotly.express
+scipy
+matplotlib.patches
+scipy.stats
